@@ -1,4 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd)
-parent_dir=$(dirname "$current_dir")
-find . -name "*.html" -type f -newer "$parent_dir" -exec cp -u {} "$parent_dir" \;
+current_dir=$(pwd)parent_dir=$(dirname "$current_dir")find . -name "*.html" -type f -newer "$parent_dir" -exec cp -u {} "$parent_dir" \;
