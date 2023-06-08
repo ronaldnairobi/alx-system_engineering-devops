@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 1753 hello
+cp /home/betty/9-John_Doe ~/9-John_Doe
