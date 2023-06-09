@@ -1,2 +1,2 @@
-#!/bin/bash chmod 1753 hello
-ls -l hello
+#!/bin/bash
+chmod 753 hello
