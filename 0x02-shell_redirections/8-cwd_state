@@ -1,0 +1,3 @@
+#!/bin/bash
+file_name="ls_cwd_content" ls -la > "$file_name" echo "ls -la output written to $file_name"
+
