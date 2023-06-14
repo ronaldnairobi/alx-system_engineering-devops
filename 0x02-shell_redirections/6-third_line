@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$line_number="3"" > iacta
+echo "$line_number=3" > iacta
